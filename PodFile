@@ -1,0 +1,8 @@
+# platform :ios, '9.0'
+target 'app_ios2' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'Flutter', :podspec => 'iosflutter/Profile/Flutter.podspec
+  # Pods for app_ios2
+
+end
